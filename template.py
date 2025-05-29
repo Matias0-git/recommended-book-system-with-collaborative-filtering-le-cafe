@@ -39,7 +39,7 @@ list_of_files = [
     ".dockerignore",
     "app.py", # endpoint of he app
     "Dockerfile", # where we will contain the application
-    "setup.py"
+    "setup.py",
 
 
 ]
