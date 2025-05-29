@@ -1,0 +1,10 @@
+artifact_config:
+  artifact_dir: artifacts
+
+data_ingestion_config:
+  data_download_url: https://github.com/Matias0-git/recommended-book-system-with-collaborative-filtering-le-cafe/dataset/books_data.zip
+  dataset_dir: dataset
+  ingested_dir: ingested_data
+  raw_data_dir: raw_data
+
+
